@@ -1,0 +1,1 @@
+{"name": "test_login_button_visible[chrome]", "status": "passed", "parameters": [{"name": "driver", "value": "'chrome'"}], "start": 1794068328538, "stop": 1794068335155, "uuid": "bfdcb6e1-463c-4ef1-b8c2-0a73de0bbcc7", "testCaseId": "09b453dc5c7ee5b497931ed9f3047f6e", "fullName": "tests.test_login_page#test_login_button_visible", "titlePath": ["tests", "test_login_page.py"]}
